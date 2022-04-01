@@ -6,7 +6,7 @@ Course Coordinator: Mr. Jithin Isaac
 ### Laboratory Experiment No. 4
  
 ### Objective  
-To interface & toggle a 8-bit LED panel to the AT89S52 microcontroller (Flashing LEDs)
+To interface & toggle a 8-bit LED panel connected to the AT89S52 microcontroller (Flashing LEDs)
  
 ### Tools used  
 - Software: 
@@ -21,7 +21,7 @@ To interface & toggle a 8-bit LED panel to the AT89S52 microcontroller (Flashing
 
 ### Instructions
 
-1. Read about Internal RAM of 8051 from 8051-Kenneth Ayala book
+1. Read about Port registers of 8051 from 8051-Kenneth Ayala book
 2. Use the Atmel 8051 Instruction sheet document to learn about the arithmetic instructions
 
 ### Final list of Deliverables for Expt 4
@@ -30,6 +30,8 @@ To interface & toggle a 8-bit LED panel to the AT89S52 microcontroller (Flashing
 - LED panel interfacing circuit schematic developed in KiCad
 - Delay function code
 - Video of flashing LEDs
+
+`Please add .asm files of all the codes executed, inside the experiment repository`
 
 ### Procedure 
 - **ADD THE PROCEDURE THAT YOU FOLLOWED FOR COMPLETING THE EXPERIMENT HERE**
