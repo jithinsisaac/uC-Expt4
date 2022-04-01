@@ -21,7 +21,7 @@ To interface & toggle a 8-bit LED panel connected to the AT89S52 microcontroller
 
 ### Instructions
 
-1. Read about Port registers of 8051 from 8051-Kenneth Ayala book
+1. Read about Port registers of 8051 (Kenneth Ayala/ Mazidi)
 2. Use the Atmel 8051 Instruction sheet document to learn about the arithmetic instructions
 
 ### Final list of Deliverables for Expt 4
